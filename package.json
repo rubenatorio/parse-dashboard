@@ -4,7 +4,7 @@
   "description": "Parse Dashboard For Sugr Servers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js --config ./parse-dashboard-config.json --allowInsecureHTTP=1"
   },
   "repository": {
     "type": "git",
