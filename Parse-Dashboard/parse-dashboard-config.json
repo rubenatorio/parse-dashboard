@@ -27,5 +27,11 @@
       "appName": "Sugr-Local",
       "production": true
     }
+  ],
+  "users": [
+    {
+      "user":"Squad",
+      "pass":"Assnigga2"
+    }
   ]
 }
