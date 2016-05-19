@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "parse-dashboard",
   "parseDashboardFeatures": [
     "Data Browser",
@@ -98,5 +99,26 @@
       "react-addons-test-utils",
       "fbjs"
     ]
+=======
+  "name": "sugr-parse-dashboard",
+  "version": "1.0.0",
+  "description": "Parse Dashboard For Sugr Servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js --config ./parse-dashboard-config.json --allowInsecureHTTP=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenatorio/sugr-parse-dashboard.git"
+  },
+  "author": "Diamond Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenatorio/sugr-parse-dashboard/issues"
+  },
+  "homepage": "https://github.com/rubenatorio/sugr-parse-dashboard#readme",
+  "dependencies": {
+    "parse-dashboard": "^1.0.11"
+>>>>>>> de272a309c3709f61db675ee44b09e9e19fd498f
   }
 }

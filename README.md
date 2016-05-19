@@ -254,3 +254,4 @@ If you are not familiar with Docker, ``--port 8080`` will be passed in as argume
 # Contributing
 
 We really want Parse to be yours, to see it grow and thrive in the open source community. Please see the [Contributing to Parse Dashboard guide](CONTRIBUTING.md).
+
