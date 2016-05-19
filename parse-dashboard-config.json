@@ -1,0 +1,31 @@
+{
+  "apps": [
+  	{
+      "serverURL": "https://api.parse.com/1",
+      "appId": "MK5KVBqIzhhM5tIwX9hrKnQLLKpHeJ9O0VHS4Fqp",
+      "masterKey": "G1QPMwxoMOfCNALvY7RrQkk9Z2X2yin7kQkemghg",
+      "javascriptKey": "CLStTSaozrHYjthLXzZkqoUCsJcgnFVQtb5rjtyu",
+      "restKey": "VIcqjZWIKDJPsNh4JjqQaCFkFzxH10bjVyaUXKi7",
+      "appName": "Sugr-Live",
+      "production": true
+    },
+    {
+      "serverURL": "http://sugr.herokuapp.com/parse",
+      "appId": "MK5KVBqIzhhM5tIwX9hrKnQLLKpHeJ9O0VHS4Fqp",
+      "masterKey": "G1QPMwxoMOfCNALvY7RrQkk9Z2X2yin7kQkemghg",
+      "javascriptKey": "CLStTSaozrHYjthLXzZkqoUCsJcgnFVQtb5rjtyu",
+      "restKey": "VIcqjZWIKDJPsNh4JjqQaCFkFzxH10bjVyaUXKi7",
+      "appName": "Sugr-Dev",
+      "production": true
+    },
+    {
+      "serverURL": "http://localhost:1337/parse",
+      "appId": "MK5KVBqIzhhM5tIwX9hrKnQLLKpHeJ9O0VHS4Fqp",
+      "masterKey": "G1QPMwxoMOfCNALvY7RrQkk9Z2X2yin7kQkemghg",
+      "javascriptKey": "CLStTSaozrHYjthLXzZkqoUCsJcgnFVQtb5rjtyu",
+      "restKey": "VIcqjZWIKDJPsNh4JjqQaCFkFzxH10bjVyaUXKi7",
+      "appName": "Sugr-Local",
+      "production": true
+    }
+  ]
+}
